@@ -47,6 +47,7 @@
 		E4373CDA22DDB3A300423647 /* AntiCrackTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AntiCrackTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4373CDE22DDB3A300423647 /* AntiCrackTestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AntiCrackTestUITests.m; sourceTree = "<group>"; };
 		E4373CE022DDB3A300423647 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E4373CF722DDBBC500423647 /* AntiCrack.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = AntiCrack.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +102,7 @@
 				E4373CBB22DDB3A100423647 /* AppDelegate.m */,
 				E4373CBD22DDB3A100423647 /* ViewController.h */,
 				E4373CBE22DDB3A100423647 /* ViewController.m */,
+				E4373CF722DDBBC500423647 /* AntiCrack.hpp */,
 				E4373CC322DDB3A300423647 /* Assets.xcassets */,
 				E4373CC822DDB3A300423647 /* Info.plist */,
 				E4373CC922DDB3A300423647 /* main.m */,

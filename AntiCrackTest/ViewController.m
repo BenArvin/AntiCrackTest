@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "AntiCrack.hpp"
 
 @interface ViewController ()
 
@@ -33,6 +34,9 @@
         self.indicatorView.center = CGPointMake(self.titleLabel.center.x, CGRectGetMaxY(self.titleLabel.frame) + 50);
         
         [self.indicatorView startAnimating];
+        
+//        antiDebug();
+//        antiCrack();
     }
 }
 
